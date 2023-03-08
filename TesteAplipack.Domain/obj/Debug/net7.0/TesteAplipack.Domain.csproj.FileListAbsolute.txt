@@ -1,0 +1,12 @@
+C:\Dev\TesteAplipack\TesteAplipack.Domain\bin\Debug\net7.0\TesteAplipack.Domain.deps.json
+C:\Dev\TesteAplipack\TesteAplipack.Domain\bin\Debug\net7.0\TesteAplipack.Domain.dll
+C:\Dev\TesteAplipack\TesteAplipack.Domain\bin\Debug\net7.0\TesteAplipack.Domain.pdb
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\TesteAplipack.Domain.csproj.AssemblyReference.cache
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\TesteAplipack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\TesteAplipack.Domain.AssemblyInfoInputs.cache
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\TesteAplipack.Domain.AssemblyInfo.cs
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\TesteAplipack.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\TesteAplipack.Domain.dll
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\refint\TesteAplipack.Domain.dll
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\TesteAplipack.Domain.pdb
+C:\Dev\TesteAplipack\TesteAplipack.Domain\obj\Debug\net7.0\ref\TesteAplipack.Domain.dll
