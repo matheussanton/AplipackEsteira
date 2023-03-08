@@ -1,3 +1,11 @@
+## Tecnologias e Métodos Empregados
+ - C#
+ - .NET 7
+ - Entity Framework
+ - DDD
+ - SQLite
+ - Swagger
+
 ## Requisitos Analisados
 
  - Receber informações de leitura das câmeras
